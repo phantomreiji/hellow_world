@@ -1,2 +1,2 @@
-# hellow_world
+# hello_world
 Learning how GitHub works
